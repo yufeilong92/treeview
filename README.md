@@ -6,6 +6,6 @@
 ![image](https://github.com/yufeilong92/treeview/blob/master/MytreeView/icon/2.png)
 点击监听
 ![image](https://github.com/yufeilong92/treeview/blob/master/MytreeView/icon/2.png)
-更多请关注 https://github.com/bmelnychuk/AndroidTreeView
+[更多请关注] (https://github.com/bmelnychuk/AndroidTreeView)
 
 
